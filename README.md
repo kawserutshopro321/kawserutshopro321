@@ -92,18 +92,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exile404&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Exile404&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exile404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
----
 
 ### 📜 Certifications
 
@@ -111,14 +99,6 @@
 
 ---
 
-### 📫 Let's Connect!
-
-I'm always open to collaborating on **data science projects**, **ML research**, or **BI solutions**. Feel free to reach out!
-
-<p align="center">
-  <a href="https://linkedin.com/in/kawser"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kawserutshopro321@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Exile404&style=flat-square&color=blue" alt="Profile Views">
