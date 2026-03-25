@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kawser"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:kawserutshopro321@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/Exile404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/kawserutshopro321"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -85,7 +85,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Cardiovascular Disease Prediction with Explainable AI](https://github.com/Exile404)** | Predictive model using XGBoost, KNN, SVM & Random Forest with SHAP & LIME for interpretability | `Python` `Scikit-learn` `XGBoost` `SHAP` `LIME` |
+| **[Cardiovascular Disease Prediction with Explainable AI](https://github.com/kawserutshopro321)** | Predictive model using XGBoost, KNN, SVM & Random Forest with SHAP & LIME for interpretability | `Python` `Scikit-learn` `XGBoost` `SHAP` `LIME` |
 | **Brain Tumour Classification (EfficientNet + Grad-CAM)** | CNN model classifying 3,260 brain MRI images into 4 categories — **100% test accuracy** | `TensorFlow` `Keras` `EfficientNet` `Grad-CAM` |
 | **Car Price Prediction Model** | End-to-end ML regression pipeline for vehicle price prediction with feature engineering | `Python` `Scikit-learn` `Pandas` `Seaborn` |
 | **Fintech Dashboards** | Interactive Tableau dashboards for transaction analysis, DSO tracking & movie analytics | `Tableau` `Selenium` `Python` `SQL` |
