@@ -81,15 +81,18 @@
 
 ---
 
-### 🚀 Featured Projects
+Copy
 
+### 🚀 Featured Projects
+ 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Cardiovascular Disease Prediction with Explainable AI](https://github.com/kawserutshopro321)** | Predictive model using XGBoost, KNN, SVM & Random Forest with SHAP & LIME for interpretability | `Python` `Scikit-learn` `XGBoost` `SHAP` `LIME` |
-| **Brain Tumour Classification (EfficientNet + Grad-CAM)** | CNN model classifying 3,260 brain MRI images into 4 categories — **100% test accuracy** | `TensorFlow` `Keras` `EfficientNet` `Grad-CAM` |
-| **Car Price Prediction Model** | End-to-end ML regression pipeline for vehicle price prediction with feature engineering | `Python` `Scikit-learn` `Pandas` `Seaborn` |
-| **Fintech Dashboards** | Interactive Tableau dashboards for transaction analysis, DSO tracking & movie analytics | `Tableau` `Selenium` `Python` `SQL` |
-
+| **[Cardiovascular Disease Prediction with Explainable AI](https://github.com/kawserutshopro321/Cardio_vascular-disease-Predicton-Using-ML-and-XAI)** | Predictive model using XGBoost, KNN, SVM & Random Forest with SHAP & LIME for interpretability | `Python` `Scikit-learn` `XGBoost` `SHAP` `LIME` |
+| **[Brain Tumour Classification (EfficientNet + Grad-CAM)](https://github.com/kawserutshopro321/Brain-Tumor-classification-problem-using-deep-learning-and-XAI)** | CNN model classifying 3,260 brain MRI images into 4 categories — **100% test accuracy** | `TensorFlow` `Keras` `EfficientNet` `Grad-CAM` |
+| **[Melbourne House Price Prediction](https://github.com/kawserutshopro321/Melbourne_house_price_Prediction-Using-ML-models-with-Streamlit)** | End-to-end ML regression pipeline for Melbourne property price prediction deployed as an interactive Streamlit web app | `Python` `Scikit-learn` `Streamlit` `Pandas` `Seaborn` |
+| **[Zomato Food Delivery Data Analysis](https://github.com/kawserutshopro321/Zomato-A-food-Delivery-APP-data-Analysis_project_Using-SQL-Power_BI)** | Comprehensive analysis of Zomato's platform uncovering insights on restaurant performance, order trends & customer behaviour | `SQL` `Power BI` `Python` |
+| **[Retail Sales Analysis](https://github.com/kawserutshopro321/Retail_sales_analysis_using_Sql)** | In-depth SQL analysis of retail sales data exploring revenue trends, top products, customer segments & seasonal patterns | `SQL` `PostgreSQL` |
+ 
 ---
 
 
